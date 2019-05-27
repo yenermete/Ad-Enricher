@@ -1,0 +1,6 @@
+{
+    "details": "Validation Failed",
+    "messages": [
+        "device must not be null"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "site": {
+        "page": "http://www.foo.com/why-foo22",
+        "id": "4432432",
+        "publisher": {
+            "id": "kjsdg9er",
+            "name": "Fake News Co."
+        },
+        "demographics": {
+            "male_percent": 72.48357271617142,
+            "female_percent": 27.516427283828577
+        }
+    },
+    "user": {
+        "id": "9cb89r"
+    },
+    "device": {
+        "ip": "69.250.196.118",
+        "geo": {
+            "country": "US"
+        }
+    }
+}
